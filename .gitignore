@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+.DS_Store
+workout_history.csv
+
